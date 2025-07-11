@@ -10,9 +10,9 @@ const responses = [
     '¡Espera! ¿Lo presionaste por tercera vez? ¡Te re amo! 😭😭'
 ];
 
-// Función para redirigir a YouTube
+// Función para redirigir a Tik Tok
 const redirigir = () => {
-    location.href = 'https://www.youtube.com/watch?v=E0UN-pVTLf4'; // Cancion Til Kingdom Come
+    location.href = 'https://www.tiktok.com/@rolillas_random/video/7507461902281248006?is_from_webapp=1&sender_device=pc&web_id=7519972692746487301'; // Cancion Til Kingdom Come
 };
 
 // Función para mover el botón "Ño"
